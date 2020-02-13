@@ -1,3 +1,6 @@
+**This material has based on the tutorial Network Analysis Made Simple created by Eric J. Ma and Mridul Seth. The original material can be found at: https://github.com/ericmjl/Network-Analysis-Made-Simple/.**
+
+
 # Network Analysis Made Simple
 
 ![](./images/custom-logo.png)
